@@ -7,6 +7,8 @@
 <br>
 <br>
 
+<img src="https://raw.githubusercontent.com/isaacalonco/isaacalonco/output/snake.svg" alt="Snake animation" />
+
 <div align="center" style="display: inline_block"><br>
   <samp>
     <b>
