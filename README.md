@@ -10,9 +10,6 @@
     <img width="50%" src="https://media.tenor.com/NpGPUgVkQKEAAAAi/cute-funny.gif" />
 </div>
 
----
-
-## 💻 Tecnologias
 
 <div align="center">
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" />
@@ -22,8 +19,6 @@
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" />
 </div>
 
-## 📬 Contatos
-
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-008b8b?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:lethiciahoshi@gmail.com)
@@ -31,7 +26,5 @@
 [![Discord](https://img.shields.io/badge/Discord-008b8b?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/hikary04)
 
 </div>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008b8b&height=100&section=footer" />
