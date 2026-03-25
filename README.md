@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=157BF7FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000"/>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=157BF7&center=true&vCenter=true&width=644&height=40&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Isaac+Alon%C3%A7o.;tenho+18+anos+e+sou+de+Bras%C3%ADlia.;Atualmente%2C+estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o.;sejam+muito+bem-vindos!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=644&height=40&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Isaac+Alon%C3%A7o.;tenho+18+anos+e+sou+de+Bras%C3%ADlia.;Atualmente%2C+estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o.;sejam+muito+bem-vindos!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -9,7 +9,7 @@
 
 <div align="center">
   <img width="80%" style="max-width: 800px;" 
-       src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI2dzR6azl1eWJqc3F3OTVrODR0MWNsYzJveGpocjg2M2d1bGI2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14fX2WQuOIVHBC/giphy.gif" />
+       src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI2dzR6azl1eWJqc3F3OTVrODR0MWNsYzJveGpocjg2M2d1bGI2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14fX2WQuOIVHBC/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHk5NnB0aXc1dmFpaG1xMjZ5NjNidHBlbTFnOXFxYTd2bmZzd2o5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C7RCCFdaixA3u/giphy.gif)" />
 </div>
 
 
@@ -46,10 +46,10 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:isaacalonco2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-050f2c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/isaac_.al/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-050f2c?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.com/channels/isaac_51)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/isaac-alon%C3%A7o-222741275/)
+  [![Gmail](https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:isaacalonco2@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-050f2c?style=for-the-badge&logo=instagram&logoColor=000000)](https://www.instagram.com/isaac_.al/?next=%2F)
+  [![Discord](https://img.shields.io/badge/Discord-050f2c?style=for-the-badge&logo=Discord&logoColor=000000)](https://discord.com/channels/isaac_51)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/isaac-alon%C3%A7o-222741275/)
   
 </div>
 
@@ -60,4 +60,4 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=157BF7FF&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
