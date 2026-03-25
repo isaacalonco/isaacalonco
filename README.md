@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=157BF7FF"/>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=157BF7&center=true&vCenter=true&width=644&height=40&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Isaac+Alon%C3%A7o.;tenho+18+anos+e+sou+de+Bras%C3%ADlia.;Atualmente%2C+estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+&+Seguranca+da+Informacao.;sejam+muito+bem-vindos!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=157BF7&center=true&vCenter=true&width=644&height=40&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Isaac+Alon%C3%A7o.;tenho+18+anos+e+sou+de+Bras%C3%ADlia.;Atualmente%2C+estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o.;&+Seguranca+da+Informacao.;sejam+muito+bem-vindos!" alt="Typing SVG"/>
 </div>
 
 <br>
