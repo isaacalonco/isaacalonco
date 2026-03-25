@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=#000000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000"/>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=644&height=40&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Isaac+Alon%C3%A7o.;tenho+18+anos+e+sou+de+Bras%C3%ADlia.;Atualmente%2C+estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o.;sejam+muito+bem-vindos!" alt="Typing SVG"/>
@@ -9,7 +9,7 @@
 
 <div align="center">
   <img width="80%" style="max-width: 800px;" 
-       src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI2dzR6azl1eWJqc3F3OTVrODR0MWNsYzJveGpocjg2M2d1bGI2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14fX2WQuOIVHBC/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHk5NnB0aXc1dmFpaG1xMjZ5NjNidHBlbTFnOXFxYTd2bmZzd2o5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C7RCCFdaixA3u/giphy.gif)" />
+       src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHk5NnB0aXc1dmFpaG1xMjZ5NjNidHBlbTFnOXFxYTd2bmZzd2o5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C7RCCFdaixA3u/giphy.gif" />
 </div>
 
 
