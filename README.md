@@ -9,7 +9,7 @@
 
 <div align="center">
   <img width="80%" style="max-width: 800px;" 
-       src="https://tokenizedhq.com/wp-content/uploads/2022/08/7-anime-discord-banner-gif-lo-fi-car-on-highway.gif" />
+       src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJvN2MxN3NpN25vb2czbGVrZmhzMHVpOHgxeDR6ZXpzNno4d2pnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dkOqY4fBwpybIsWQ0t/giphy.gif" />
 </div>
 
 
