@@ -46,10 +46,10 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:isaacalonco2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-050f2c?style=for-the-badge&logo=instagram&logoColor=000000)](https://www.instagram.com/isaac_.al/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-050f2c?style=for-the-badge&logo=Discord&logoColor=000000)](https://discord.com/channels/isaac_51)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/isaac-alon%C3%A7o-222741275/)
+  [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:isaacalonco2@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/isaac_.al/?next=%2F)
+  [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.com/channels/isaac_51)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=fffffff)](https://www.linkedin.com/in/isaac-alon%C3%A7o-222741275/)
   
 </div>
 
