@@ -4,9 +4,6 @@
   <a href="https://br.linkedin.com/in/paulo-vitor-lucena-mendes-99a649341?trk=people-guest_people_search-card" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://br.pinterest.com/lucenapaulovitor/_profile/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
 </p>
 
 
@@ -14,7 +11,7 @@
 
 <h2 align="center"> <img src="icon.png" width="25"/> <em>About  me </em></h2>
 
-<img src="batman.jpg" width="250" align="right" style="margin-left: 20px;" />
+<img src="https://i.pinimg.com/1200x/65/97/3a/65973a695f6748b5617443e777537948.jpg" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
