@@ -9,20 +9,20 @@
 
 <br>
 
-<h2 align="center"> <img src="icon.png" width="25"/> <em>About  me </em></h2>
+<h2 align="center"> <img src="icon.png" width="25"/> <em> SOBRE </em></h2>
 
 <img src="https://i.pinimg.com/1200x/65/97/3a/65973a695f6748b5617443e777537948.jpg" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Paulo Vitor </b></em>, a Computer Science student exploring the world of technology..
+  Olá! <em><b> Eu sou Isaac Alonço </b></em>, estou cursando CIÊNCIAS DA COMPUTAÇÃO E SEGURANÇA DA INFORMAÇÃO..
 </p>
 
 
 <br/>
 
 <p align="center">
-   <img src="cruz-removebg-preview.png" width="15"/>   <em><b> Catholic University of Brasília </b></em> <br/>
+   <img src="cruz-removebg-preview.png" width="15"/>   <em><b> UCB UNIVERSIDADE CATOLICA DE BRASILIA </b></em> <br/>
 </p>
 
 <br/>
