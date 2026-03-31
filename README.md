@@ -1,64 +1,55 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000"/>
+<img src = "projects2.jpg"/>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=644&height=40&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Isaac+Alon%C3%A7o.;tenho+18+anos+e+sou+de+Bras%C3%ADlia.;Atualmente%2C+estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o.;sejam+muito+bem-vindos!" alt="Typing SVG"/>
-</div>
+<p align="center">
+  <a href="https://br.linkedin.com/in/paulo-vitor-lucena-mendes-99a649341?trk=people-guest_people_search-card" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://br.pinterest.com/lucenapaulovitor/_profile/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+</p>
 
-<br>
-<br>
-
-<div align="center">
-  <img width="80%" style="max-width: 800px;" 
-       src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHk5NnB0aXc1dmFpaG1xMjZ5NjNidHBlbTFnOXFxYTd2bmZzd2o5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C7RCCFdaixA3u/giphy.gif" />
-</div>
-
-
-<div align="center" style="display: inline_block"><br>
-  <samp>
-    <b>
-      Tecnologias:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/dominickjohn/aseprite-big-sur-icon/main/AsepriteSurIcon.png" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" /> 
-</div>
-
-##
-
-<div align="center">
-  <samp>
-    <b>
-      Contatos:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:isaacalonco2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/isaac_.al/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.com/channels/isaac_51)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=fffffff)](https://www.linkedin.com/in/isaac-alon%C3%A7o-222741275/)
-  
-</div>
-
-<div align="center">
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
-
-</details>
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+<h2 align="center"> <img src="icon.png" width="25"/> <em>About  me </em></h2>
+
+<img src="batman.jpg" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+
+<p>
+  Hello There! <em><b> I'm Paulo Vitor </b></em>, a Computer Science student exploring the world of technology..
+</p>
+
+
+<br/>
+
+<p align="center">
+   <img src="cruz-removebg-preview.png" width="15"/>   <em><b> Catholic University of Brasília </b></em> <br/>
+</p>
+
+<br/>
+<br/>
+<h2 align="center"> <img src="stats.png" width="25"/> <em> Technologies </em> </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<br/>
+<br/>
+
+<h2 align="center""> <img src="8mb.png" width="25"/> <em> Statistics </em> </h2>
+
+<div align = "center"> 
+
+ ![](https://nirzak-streak-stats.vercel.app/?user=Benjamin-Solano&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paulo-Vitor&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+
+</div>
