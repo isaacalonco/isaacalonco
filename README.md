@@ -38,7 +38,7 @@
   </a>
 </p>
 
-<h2 align="center""> <img src="8mb.png" width="25"/> <em> Statistics </em> </h2>
+<h2 align="center""> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="25"/> <em> ESTATÍSTICAS </em> </h2>
 
 <div align = "center"> 
 
