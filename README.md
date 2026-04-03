@@ -51,6 +51,9 @@
   <a href="https://www.instagram.com/isaac_.al/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://seu-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 </p>
 
 <br/>
