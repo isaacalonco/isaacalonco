@@ -5,9 +5,11 @@
   <em> SOBRE </em>
 </h2>
 
-<img src="https://i.pinimg.com/1200x/65/97/3a/65973a695f6748b5617443e777537948.jpg" width="250" align="right" style="margin-left: 20px;" />
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/65/97/3a/65973a695f6748b5617443e777537948.jpg" width="250"/>
+</p>
 
-<p>
+<p align="center">
   Olá! <em><b>Eu sou Isaac Alonço</b></em>, estou cursando
   <strong>CIÊNCIAS DA COMPUTAÇÃO E SEGURANÇA DA INFORMAÇÃO</strong>.
 </p>
