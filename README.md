@@ -10,8 +10,8 @@
 <img src="https://static.wikia.nocookie.net/rescind/images/e/eb/FOXHOUND_LOGO.png/revision/latest?cb=20211026212132" width="160" align="right"/>
 
 <p>
-  Olá! Meu nome é <em>Isaac Alonço</em>, sou estudante de
-  <strong>Ciência da Computação</strong> & <strong>Segurança da Informação</strong>.<br>
+  Olá! Meu nome é <em>Isaac Alonço</em> e sou estudante de
+  <strong>Ciência da Computação</strong> & <strong>Segurança da Informação</strong>.
   Tenho uma curiosidade constante por como as coisas funcionam por baixo dos panos,
   seja em sistemas, redes ou no código em si. Nas horas vagas, gosto de <strong>programar jogos</strong>,
   desenhar e jogar. A música também faz parte do meu dia a dia: curto
@@ -19,7 +19,7 @@
   tecnologia e pela vontade de criar coisas que façam sentido.
 </p>
 
-<br><br>
+<br clear="right"/>
 
 <p>
   <img src="https://i.im.ge/epwXkp/01.png" width="25" style="vertical-align: middle;"/>
