@@ -11,8 +11,8 @@
 </p>
 
 <p>
-  <img src="https://i.im.ge/epmCnT/ChatGPT_Image_2_de_abr._de_2026_21_14_44.png" width="40" style="vertical-align: middle;"/>
-  &nbsp;<em><b>Universidade Católica de Brasília (UCB)</b></em>
+  <img src="https://i.im.ge/epwXkp/01.png" width="25" style="vertical-align: middle;"/>
+  &nbsp;<em><b>UNIVERSIDADE CATÓLICA DE BRASÍLIA (UCB)</b></em>
 </p>
 
 <p align="center">
