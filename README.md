@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="cruz-removebg-preview.png" width="15"/>
+  <img src="https://im.ge/i/epmCnT" width="15"/>
   <em><b> UNIVERSIDADE CATÓLICA DE BRASÍLIA (UCB) </b></em>
 </p>
 
