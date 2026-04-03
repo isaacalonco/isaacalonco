@@ -1,24 +1,28 @@
-<img src = "https://pbs.twimg.com/media/Gc_adPPXYAA4DgY.jpg"/>
+<img src="https://pbs.twimg.com/media/Gc_adPPXYAA4DgY.jpg" width="100%"/>
 
-<h2 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/3171/3171065.png" width="20"/> <em> SOBRE </em></h2>
+<h2 align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3171/3171065.png" width="20"/>
+  <em> SOBRE </em>
+</h2>
 
 <img src="https://i.pinimg.com/1200x/65/97/3a/65973a695f6748b5617443e777537948.jpg" width="250" align="right" style="margin-left: 20px;" />
-<br/>
 
 <p>
-  Olá! <em><b> Eu sou Isaac Alonço </b></em>, estou cursando CIÊNCIAS DA COMPUTAÇÃO E SEGURANÇA DA INFORMAÇÃO..
+  Olá! <em><b>Eu sou Isaac Alonço</b></em>, estou cursando
+  <strong>CIÊNCIAS DA COMPUTAÇÃO E SEGURANÇA DA INFORMAÇÃO</strong>.
 </p>
-
-
-<br/>
 
 <p align="center">
-   <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000e5bc720ea22ad397e2c97c3a&ts=493104&p=fs&cid=1&sig=805a976fb11b8961dbf4c7014c19bd22e6e27cfa34c15e5c87de0edae6a84f62&v=0" width="15"/><em><b> UNIVERSIDADE CATÓLICA DE BRASÍLIA (UCB) </b></em> <br/>
+  <img src="cruz-removebg-preview.png" width="15"/>
+  <em><b> UNIVERSIDADE CATÓLICA DE BRASÍLIA (UCB) </b></em>
 </p>
 
 <br/>
-<br/>
-<h2 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/40/40031.png" width="20"/> <em> TECNOLOGIAS </em> </h2>
+
+<h2 align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/40/40031.png" width="20"/>
+  <em> TECNOLOGIAS </em>
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -30,20 +34,22 @@
 </p>
 
 <br/>
-<br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/isaac-alonco/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWALJvVbxQJOY8DlQ8ZDqkw%3D%3D?trk=people-guest_people_search-card" target="_blank">
+  <a href="https://www.linkedin.com/in/isaac-alonco/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<h2 align="center""> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="25"/> <em> ESTATÍSTICAS </em> </h2>
+<br/>
 
-<div align = "center"> 
+<h2 align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="25"/>
+  <em> ESTATÍSTICAS </em>
+</h2>
 
- ![](https://nirzak-streak-stats.vercel.app/?user=Benjamin-Solano&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaacalonco&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
-
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Benjamin-Solano&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaacalonco&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 </div>
