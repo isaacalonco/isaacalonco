@@ -1,8 +1,8 @@
 <img src="https://pbs.twimg.com/media/Gc_adPPXYAA4DgY.jpg" width="100%"/>
 
-<table border="0" style="border-collapse: collapse;" width="100%">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;" width="100%">
   <tr>
-    <td width="50%" valign="middle">
+    <td width="50%" valign="top" style="border: none; padding-top: 0;">
       <h2>
         <img src="https://cdn-icons-png.flaticon.com/512/3171/3171065.png" width="19"/>
         <em> SOBRE </em>
@@ -12,17 +12,15 @@
         <strong>CIÊNCIAS DA COMPUTAÇÃO E SEGURANÇA DA INFORMAÇÃO</strong>.
       </p>
       <p>
-        <img src="https://i.im.ge/epmCnT/ChatGPT_Image_2_de_abr._de_2026_21_14_44.png" width="40" valign="middle"/>
+        <img src="https://i.im.ge/epmCnT/ChatGPT_Image_2_de_abr._de_2026_21_14_44.png" width="40" style="vertical-align: middle;"/>
         &nbsp;<em><b>UNIVERSIDADE CATÓLICA DE BRASÍLIA (UCB)</b></em>
       </p>
     </td>
-    <td width="50%" align="center" valign="middle">
+    <td width="50%" align="center" valign="top" style="border: none; padding-top: 0;">
       <img src="https://i.pinimg.com/1200x/65/97/3a/65973a695f6748b5617443e777537948.jpg" width="250"/>
     </td>
   </tr>
 </table>
-
-<hr/>
 
 <h2 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/40/40031.png" width="19"/>
