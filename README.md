@@ -1,7 +1,7 @@
 <img src="https://pbs.twimg.com/media/Gc_adPPXYAA4DgY.jpg" width="100%"/>
 
 <h2 align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3171/3171065.png" width="20"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3171/3171065.png" width="19"/>
   <em> SOBRE </em>
 </h2>
 
@@ -22,7 +22,7 @@
 <br/>
 
 <h2 align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/40/40031.png" width="20"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/40/40031.png" width="19"/>
   <em> TECNOLOGIAS </em>
 </h2>
 
@@ -50,7 +50,7 @@
 <br/>
 
 <h2 align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="25"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="19"/>
   <em> ESTATÍSTICAS </em>
 </h2>
 
