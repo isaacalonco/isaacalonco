@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://im.ge/i/epmCnT" width="15"/>
+  <img src="https://i.im.ge/epmCnT/ChatGPT_Image_2_de_abr._de_2026_21_14_44.png" width="20"/>
   <em><b> UNIVERSIDADE CATÓLICA DE BRASÍLIA (UCB) </b></em>
 </p>
 
