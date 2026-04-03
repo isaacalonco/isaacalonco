@@ -13,7 +13,7 @@
 <br/>
 
 <p align="center">
-   <img src="cruz-removebg-preview.png" width="15"/>   <em><b> UCB UNIVERSIDADE CATOLICA DE BRASILIA </b></em> <br/>
+   <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000e5bc720ea22ad397e2c97c3a&ts=493104&p=fs&cid=1&sig=805a976fb11b8961dbf4c7014c19bd22e6e27cfa34c15e5c87de0edae6a84f62&v=0" width="15"/><em><b> UNIVERSIDADE CATÓLICA DE BRASÍLIA (UCB) </b></em> <br/>
 </p>
 
 <br/>
