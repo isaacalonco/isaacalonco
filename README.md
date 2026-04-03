@@ -33,7 +33,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://br.linkedin.com/in/paulo-vitor-lucena-mendes-99a649341?trk=people-guest_people_search-card" target="_blank">
+  <a href="https://www.linkedin.com/in/isaac-alonco/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWALJvVbxQJOY8DlQ8ZDqkw%3D%3D?trk=people-guest_people_search-card" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
