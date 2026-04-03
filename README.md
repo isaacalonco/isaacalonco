@@ -1,6 +1,6 @@
 <img src = "https://pbs.twimg.com/media/Gc_adPPXYAA4DgY.jpg"/>
 
-<h2 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/3171/3171065.png" width="25"/> <em> SOBRE </em></h2>
+<h2 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/3171/3171065.png" width="20"/> <em> SOBRE </em></h2>
 
 <img src="https://i.pinimg.com/1200x/65/97/3a/65973a695f6748b5617443e777537948.jpg" width="250" align="right" style="margin-left: 20px;" />
 <br/>
@@ -18,7 +18,7 @@
 
 <br/>
 <br/>
-<h2 align="center"> <img src="stats.png" width="25"/> <em> Technologies </em> </h2>
+<h2 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/40/40031.png" width="20"/> <em> TECNOLOGIAS </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
