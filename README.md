@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/media/Gc_adPPXYAA4DgY.jpg" width="100%"/>
+<img src="https://i.pinimg.com/1200x/d9/44/ab/d944ab2d46564c0b557588629ee71c82.jpg" width="100%"/>
 
 <br>
 
@@ -8,17 +8,15 @@
 </h2>
 
 <img src="https://static.wikia.nocookie.net/rescind/images/e/eb/FOXHOUND_LOGO.png/revision/latest?cb=20211026212132" width="160" align="right"/>
-
 <p>
-  Olá! Meu nome é <em>Isaac Alonço</em> e sou estudante de
-  <strong>Ciência da Computação</strong> & <strong>Segurança da Informação</strong>.
-  Tenho uma curiosidade constante por como as coisas funcionam por baixo dos panos,
-  seja em sistemas, redes ou no código em si. Nas horas vagas, gosto de <strong>programar jogos</strong>,
+  Olá! Meu nome é <em>Isaac Alonço</em>, estou cursando
+  <strong>Ciência da Computação</strong> & <strong>Segurança da Informação</strong>, atuo na área de
+  <strong>web design</strong> e <strong>automação</strong>.
+  Nas horas vagas, gosto de <strong>programar jogos</strong>,
   desenhar e jogar. A música também faz parte do meu dia a dia: curto
   praticamente tudo, de pagode a metal. No fim das contas, sou movido pela
   tecnologia e pela vontade de criar coisas que façam sentido.
 </p>
-
 <br clear="right"/>
 
 <p>
