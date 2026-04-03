@@ -1,34 +1,30 @@
 <img src="https://pbs.twimg.com/media/Gc_adPPXYAA4DgY.jpg" width="100%"/>
 
-<br/><br/>
-
 <h2 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/3171/3171065.png" width="19"/>
   <em> SOBRE </em>
 </h2>
 
-<br/>
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/65/97/3a/65973a695f6748b5617443e777537948.jpg" width="250"/>
+</p>
 
-<img src="https://i.pinimg.com/1200x/65/97/3a/65973a695f6748b5617443e777537948.jpg" width="250" align="right"/>
-
-<p>
+<p align="center">
   Olá! <em><b>Eu sou Isaac Alonço</b></em>, estou cursando
   <strong>CIÊNCIAS DA COMPUTAÇÃO E SEGURANÇA DA INFORMAÇÃO</strong>.
 </p>
 
-<p>
+<p align="center">
   <img src="https://i.im.ge/epmCnT/ChatGPT_Image_2_de_abr._de_2026_21_14_44.png" width="40"/>
   <em><b> UNIVERSIDADE CATÓLICA DE BRASÍLIA (UCB) </b></em>
 </p>
 
-<br/><br/>
+<br/>
 
 <h2 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/40/40031.png" width="19"/>
   <em> TECNOLOGIAS </em>
 </h2>
-
-<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=f89820" />
@@ -39,18 +35,18 @@
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<br/><br/>
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-alonco/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
   </a>
   <a href="https://www.instagram.com/isaac_.al/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-<br/><br/>
+<br/>
 
 <h2 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="19"/>
