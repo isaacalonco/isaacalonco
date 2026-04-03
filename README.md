@@ -1,31 +1,29 @@
 <img src="https://pbs.twimg.com/media/Gc_adPPXYAA4DgY.jpg" width="100%"/>
 
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;" width="100%">
-  <tr>
-    <td width="50%" valign="top" style="border: none; padding-top: 0;">
-      <h2>
-        <img src="https://cdn-icons-png.flaticon.com/512/3171/3171065.png" width="19"/>
-        <em> SOBRE </em>
-      </h2>
-      <p>
-        Olá! <em><b>Eu sou Isaac Alonço</b></em>, estou cursando
-        <strong>CIÊNCIAS DA COMPUTAÇÃO E SEGURANÇA DA INFORMAÇÃO</strong>.
-      </p>
-      <p>
-        <img src="https://i.im.ge/epmCnT/ChatGPT_Image_2_de_abr._de_2026_21_14_44.png" width="40" style="vertical-align: middle;"/>
-        &nbsp;<em><b>UNIVERSIDADE CATÓLICA DE BRASÍLIA (UCB)</b></em>
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top" style="border: none; padding-top: 0;">
-      <img src="https://i.pinimg.com/1200x/65/97/3a/65973a695f6748b5617443e777537948.jpg" width="250"/>
-    </td>
-  </tr>
-</table>
+<h2>
+  <img src="https://cdn-icons-png.flaticon.com/512/3171/3171065.png" width="19"/>
+  <em> SOBRE </em>
+</h2>
+
+<p>
+  Olá! <em><b>Eu sou Isaac Alonço</b></em>, atualmente curso 
+  <strong>Ciência da Computação e Segurança da Informação</strong>.
+</p>
+
+<p>
+  <img src="https://i.im.ge/epmCnT/ChatGPT_Image_2_de_abr._de_2026_21_14_44.png" width="40" style="vertical-align: middle;"/>
+  &nbsp;<em><b>Universidade Católica de Brasília (UCB)</b></em>
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/65/97/3a/65973a695f6748b5617443e777537948.jpg" width="300"/>
+</p>
 
 <h2 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/40/40031.png" width="19"/>
   <em> TECNOLOGIAS </em>
 </h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=f89820" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
@@ -34,7 +32,9 @@
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
 <br/>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-alonco/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -43,12 +43,16 @@
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
 <br/>
+
 <h2 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="19"/>
   <em> ESTATÍSTICAS </em>
 </h2>
+
 <br/>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaacalonco&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 </div>
