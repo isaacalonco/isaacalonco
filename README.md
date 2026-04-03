@@ -1,30 +1,25 @@
 <img src="https://pbs.twimg.com/media/Gc_adPPXYAA4DgY.jpg" width="100%"/>
 
+<br>
+
 <h2>
   <img src="https://cdn-icons-png.flaticon.com/512/3171/3171065.png" width="19"/>
   <em> SOBRE </em>
 </h2>
 
-<table>
-  <tr>
-    <td>
-      <p>
-        Olá! Meu nome é <em>Isaac Alonço</em>, sou estudante de
-        <strong>Ciência da Computação</strong> & <strong>Segurança da Informação</strong>.<br>
-        Tenho uma curiosidade constante por como as coisas funcionam por baixo dos panos,
-        seja em sistemas, redes ou no código em si. Nas horas vagas, gosto de <strong>programar jogos</strong>,
-        desenhar e jogar. A música também faz parte do meu dia a dia: curto
-        praticamente tudo, de pagode a metal. No fim das contas, sou movido pela
-        tecnologia e pela vontade de criar coisas que façam sentido.
-      </p>
-    </td>
-    <td width="200" align="right">
-      <img src="https://static.wikia.nocookie.net/rescind/images/e/eb/FOXHOUND_LOGO.png/revision/latest?cb=20211026212132" width="160"/>
-    </td>
-  </tr>
-</table>
+<img src="https://static.wikia.nocookie.net/rescind/images/e/eb/FOXHOUND_LOGO.png/revision/latest?cb=20211026212132" width="160" align="right"/>
 
-<br>
+<p>
+  Olá! Meu nome é <em>Isaac Alonço</em>, sou estudante de
+  <strong>Ciência da Computação</strong> & <strong>Segurança da Informação</strong>.<br>
+  Tenho uma curiosidade constante por como as coisas funcionam por baixo dos panos,
+  seja em sistemas, redes ou no código em si. Nas horas vagas, gosto de <strong>programar jogos</strong>,
+  desenhar e jogar. A música também faz parte do meu dia a dia: curto
+  praticamente tudo, de pagode a metal. No fim das contas, sou movido pela
+  tecnologia e pela vontade de criar coisas que façam sentido.
+</p>
+
+<br><br>
 
 <p>
   <img src="https://i.im.ge/epwXkp/01.png" width="25" style="vertical-align: middle;"/>
