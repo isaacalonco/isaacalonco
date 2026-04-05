@@ -20,7 +20,7 @@
 <br clear="right"/>
 
 <p>
-  <img src="https://i.im.ge/epwXkp/01.png" width="25" style="vertical-align: middle;"/>
+  <img src="/Img/LOGO_UCB.png" width="30" style="vertical-align: middle;"/>
   &nbsp;<em><b>UNIVERSIDADE CATÓLICA DE BRASÍLIA (UCB)</b></em>
 </p>
 
