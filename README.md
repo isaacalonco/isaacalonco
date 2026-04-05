@@ -19,10 +19,12 @@
 </p>
 <br clear="right"/>
 
-<p>
-  <img src="/Img/LOGO_UCB.png" width="30" style="vertical-align: middle;"/>
-  &nbsp;<em><b>UNIVERSIDADE CATÓLICA DE BRASÍLIA (UCB)</b></em>
-</p>
+<table border="0">
+  <tr>
+    <td><img src="/Img/LOGO_UCB.png" width="35"/></td>
+    <td><em><b>UNIVERSIDADE CATÓLICA DE BRASÍLIA (UCB)</b></em></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://i.pinimg.com/1200x/65/97/3a/65973a695f6748b5617443e777537948.jpg" width="300"/>
@@ -43,6 +45,11 @@
 </p>
 
 <br/>
+
+<h2 align="center">
+  <img src="https://www.svgrepo.com/show/89880/send-symbol.svg" width="19"/>
+  <em> REDES SOCIAIS </em>
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-alonco/" target="_blank">
