@@ -1,7 +1,3 @@
-<img src="/Img/BACKGROUND.jpg" width="100%"/>
-
-<br>
-
 <h2>
   <img src="https://cdn-icons-png.flaticon.com/512/3171/3171065.png" width="19"/>
   <em> SOBRE </em>
