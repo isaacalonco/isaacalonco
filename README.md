@@ -15,13 +15,6 @@
 </p>
 <br clear="right"/>
 
-<table border="0">
-  <tr>
-    <td><img src="/Img/LOGO_UCB.png" width="35"/></td>
-    <td><em><b>UNIVERSIDADE CATÓLICA DE BRASÍLIA (UCB)</b></em></td>
-  </tr>
-</table>
-
 <h2 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/40/40031.png" width="19"/>
   <em> TECNOLOGIAS </em>
