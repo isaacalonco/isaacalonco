@@ -22,10 +22,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/65/97/3a/65973a695f6748b5617443e777537948.jpg" width="300"/>
-</p>
-
 <h2 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/40/40031.png" width="19"/>
   <em> TECNOLOGIAS </em>
