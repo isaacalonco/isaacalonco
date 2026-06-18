@@ -1,23 +1,24 @@
 <h2>
   <img src="https://cdn-icons-png.flaticon.com/512/3171/3171065.png" width="19"/>
-  <em> SOBRE </em>
+  <em> ABOUT </em>
 </h2>
 
 <img src="https://static.wikia.nocookie.net/rescind/images/e/eb/FOXHOUND_LOGO.png/revision/latest?cb=20211026212132" width="160" align="right"/>
 <p>
-  Olá! Meu nome é <em>Isaac Alonço</em>, estou cursando
-  <strong>Ciência da Computação</strong> & <strong>Segurança da Informação</strong>, atuo na área de
-  <strong>web design</strong> e <strong>automação</strong>.
-  Nas horas vagas, gosto de <strong>programar jogos</strong>,
-  desenhar e jogar. A música também faz parte do meu dia a dia: curto
-  praticamente tudo, de pagode a metal. No fim das contas, sou movido pela
-  tecnologia e pela vontade de criar coisas que façam sentido.
+Hello! My name is <em>Isaac Alonço</em>. I'm currently pursuing degrees in
+<strong>Computer Science</strong> and <strong>Information Security</strong>.
+I work in <strong>web design</strong> and <strong>automation</strong>.
+
+In my free time, I enjoy <strong>game development</strong>, drawing, and gaming.
+Music is also a big part of my life, I listen to just about everything, from
+pagode to metal. At the end of the day, I'm driven by technology and a passion
+for creating things that are meaningful and impactful.
 </p>
 <br clear="right"/>
 
 <h2 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/40/40031.png" width="19"/>
-  <em> TECNOLOGIAS </em>
+  <em> TECHNOLOGY </em>
 </h2>
 
 <p align="center">
@@ -33,15 +34,12 @@
 
 <h2 align="center">
   <img src="https://www.svgrepo.com/show/89880/send-symbol.svg" width="19"/>
-  <em> REDES SOCIAIS </em>
+  <em> CONNECT </em>
 </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-alonco/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/isaac_.al/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://portfolio-lovat-gamma-47.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
@@ -52,7 +50,7 @@
 
 <h2 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="19"/>
-  <em> ESTATÍSTICAS </em>
+  <em> STATISTICS </em>
 </h2>
 
 <br/>
