@@ -55,6 +55,4 @@ for creating things that are meaningful and impactful.
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaacalonco&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacalonco&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
