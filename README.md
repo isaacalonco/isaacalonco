@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
+<br><br>
+
 <h2>
   <img src="https://cdn-icons-png.flaticon.com/512/3171/3171065.png" width="19"/>
   <em> ABOUT </em>
@@ -55,4 +58,8 @@ for creating things that are meaningful and impactful.
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacalonco&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaacalonco/isaacalonco/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isaacalonco/isaacalonco/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/isaacalonco/isaacalonco/output/pacman-contribution-graph.svg">
+</picture>
