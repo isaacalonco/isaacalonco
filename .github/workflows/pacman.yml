@@ -1,0 +1,26 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate Pacman contribution graph"
+          add: "output/"
