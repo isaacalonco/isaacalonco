@@ -58,17 +58,7 @@ for creating things that are meaningful and impactful.
 
 <br/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/isaacalonco/isaacalonco/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/isaacalonco/isaacalonco/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pacman Contribution Graph"
-    src="https://raw.githubusercontent.com/isaacalonco/isaacalonco/output/pacman-contribution-graph.svg"
-  />
-</picture>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=isaacalonco&theme=dark&hide_border=true" alt="GitHub Streak">
+</p>
